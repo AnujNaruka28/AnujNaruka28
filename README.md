@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m Full Stack Developer with experience in building production-grade web applications. <br>👯 I’m looking to collaborate on web applications based on SaaS and LLMs. <br> 🌱 I’m currently learning Agentic AI
 
 
 ## 🌐 Socials:
